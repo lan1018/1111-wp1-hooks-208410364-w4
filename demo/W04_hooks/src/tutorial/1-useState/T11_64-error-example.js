@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ErrorExample = () => {
+const T11_64_ErrorExample = () => {
   let title = 'random title'
   const handleClick = () => {
     title = 'Hello word';
@@ -16,4 +16,4 @@ const ErrorExample = () => {
   );
 };
 
-export default ErrorExample;
+export default T11_64_ErrorExample;
