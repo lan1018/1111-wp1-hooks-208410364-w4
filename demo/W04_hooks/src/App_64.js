@@ -1,11 +1,11 @@
 import React from 'react';
-import T21_64_UseEffectBasics from './tutorial/2-useEffect/T21_64-useEffect-basics';
+import T23_64 from './tutorial/2-useEffect/T23_64-useEffect-fetch-data';
 
 const App_64 = () => {
   return (
     <div className='container'>
-      <h2>Tutorial 21 - 208410380</h2>
-      <T21_64_UseEffectBasics />
+      <h2>Tutorial 23 - 208410364</h2>
+      <T23_64 />
     </div>
   );
 };
