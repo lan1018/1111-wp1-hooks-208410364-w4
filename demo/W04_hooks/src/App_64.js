@@ -1,11 +1,11 @@
 import React from 'react';
-import T14_64_UseStateObject from './tutorial/1-useState/T14_64-useState-object';
+import T21_64_UseEffectBasics from './tutorial/2-useEffect/T21_64-useEffect-basics';
 
 const App_64 = () => {
   return (
     <div className='container'>
-      <h2>Tutorial 14 - 208410380</h2>
-      <T14_64_UseStateObject />
+      <h2>Tutorial 21 - 208410380</h2>
+      <T21_64_UseEffectBasics />
     </div>
   );
 };
